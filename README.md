@@ -1,6 +1,5 @@
 ## Live Demo 
-
-https://earthchie.github.io/Firebase-CRUD-Example/
+https://x-publisher.github.io/sample-crud/
 
 http://earthchie.com/firebase/crud/ (Thai language interface)
 
